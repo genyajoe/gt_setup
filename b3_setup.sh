@@ -3,6 +3,8 @@ sudo apt-get update
 #install easy_install
 sudo apt-get install python-setuptools
 
+sudo apt-get install build-essential python-dev
+
 sudo apt-get update
 
 #install pip
