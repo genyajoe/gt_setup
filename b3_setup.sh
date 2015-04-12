@@ -3,6 +3,7 @@ sudo apt-get update
 #install easy_install
 sudo apt-get install -y python-setuptools
 
+#for pip scipy use on ubuntu
 sudo apt-get install -y build-essential python-dev
 
 sudo apt-get update
